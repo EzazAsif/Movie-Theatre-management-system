@@ -1,5 +1,5 @@
 # Movie-Theatre-management-system
-This is a project I did in my 2nd semister
+This is a project I did in my 2nd semister using Java
 
 Overview
 The Movie Ticket Booking System is a Java application that allows users to book tickets for movies. It provides functionalities for both customers and managers to manage movies, seats, and bookings.
